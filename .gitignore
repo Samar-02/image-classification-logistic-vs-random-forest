@@ -1,0 +1,17 @@
+# Project data
+data/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated output
+output/
+*.Rout
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
